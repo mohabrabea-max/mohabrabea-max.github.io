@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.mucmaps",
+    "sha256_cert_fingerprints": ["30:A1:C8:25:4E:61:14:5D:E5:D2:3B:28:24:19:1D:6D:CA:7B:C4:6C:27:6C:9B:0B:EA:B7:94:65:98:72:5C:4E"]
+  }
+}]
